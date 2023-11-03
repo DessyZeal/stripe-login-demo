@@ -3,12 +3,28 @@ body{
     height: 100vh;
 }
 .center{
-    height: 80%;
+    height: 90%;
     width: 40%;
-    background-color: #7ae2f4;
+    background-color: #fff;
     margin: auto;
-    border-radius: 10px;
+    border-radius: 8px;
     margin-top: 6%;
+    box-shadow: rgba(8, 155, 191, 0.5) 0px 15px 30px, rgba(8, 155, 191, 0.25) 0px 15px 15px;
     align-items: center;
     justify-content: center;
+    /* display: flex; */
+    /* flex-direction: column;#7ae2f4 */
+}
+h2{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+    padding-top: 10%;
+    font-size: 2em;
+}
+label{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+form{
+    display: flex;
+    flex-direction: column;
 }
