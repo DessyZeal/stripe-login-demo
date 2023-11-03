@@ -1,0 +1,14 @@
+body{
+    background-image: url(./img/login.jpeg.jpg);
+    height: 100vh;
+}
+.center{
+    height: 80%;
+    width: 40%;
+    background-color: #7ae2f4;
+    margin: auto;
+    border-radius: 10px;
+    margin-top: 6%;
+    align-items: center;
+    justify-content: center;
+}
