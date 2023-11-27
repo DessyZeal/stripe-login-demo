@@ -76,3 +76,6 @@ img{
     color: #089bbf;
     padding-top: 2.2%;
 }
+input:active{
+    background-color: #254853;
+}
